@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753348540428",
+    "firebase_url": "https://bonde-do-ru.firebaseio.com",
+    "project_id": "bonde-do-ru",
+    "storage_bucket": "bonde-do-ru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753348540428:android:e5fdd6478570d2b235d629",
+        "android_client_info": {
+          "package_name": "com.example.bonde_do_ru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753348540428-515rktdr8oa0g6oq1sp02fii14e9n6uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonde_do_ru",
+            "certificate_hash": "18dfccff4cc65f2d09854e05eed7b4d2f8bc70a8"
+          }
+        },
+        {
+          "client_id": "753348540428-8u574ujkfhbcju7hr8vqh18ib7j3i0du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10PdQhnGvVjgj0Wwlvio36IxIpOdtP0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753348540428-8u574ujkfhbcju7hr8vqh18ib7j3i0du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
